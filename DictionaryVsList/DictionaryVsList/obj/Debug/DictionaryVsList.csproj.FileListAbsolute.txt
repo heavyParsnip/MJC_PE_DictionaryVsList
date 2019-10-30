@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\bin\Debug\DictionaryVsList.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\bin\Debug\DictionaryVsList.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\bin\Debug\DictionaryVsList.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\obj\Debug\DictionaryVsList.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\obj\Debug\DictionaryVsList.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\obj\Debug\DictionaryVsList.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_PE_DictionaryVsList\DictionaryVsList\DictionaryVsList\obj\Debug\DictionaryVsList.pdb
